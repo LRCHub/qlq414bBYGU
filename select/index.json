@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ラブノカサブタ (Instrumental)",
+  "base_artist": "兎田ぺこら",
+  "createdAt": "2026-02-18T17:34:22.306842Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ラブノカサブタ",
+      "artist": "兎田ぺこら",
+      "has_synced": false,
+      "path": "select/pl_01_ラブノカサブタ_兎田ぺこら.txt"
+    }
+  ]
+}
